@@ -13,4 +13,4 @@
     |4|Do Dinh Kien|20214906|kien.dd214906@sis.hust.edu.vn|
 
 ## Dasboard 
-![Alt text](Dashboard 1.png)
+![](./Demo.png)
