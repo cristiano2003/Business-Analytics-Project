@@ -12,5 +12,5 @@
     |3|Le Trung Kien|20214907|kien.lt214907@sis.hust.edu.vn|
     |4|Do Dinh Kien|20214906|kien.dd214906@sis.hust.edu.vn|
 
-## Dasboard 
+## Dashboard 
 ![](./Demo.png)
